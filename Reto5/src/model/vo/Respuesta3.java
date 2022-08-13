@@ -1,8 +1,7 @@
-
 package model.vo;
 
-
 public class Respuesta3 {
+
     private Integer id_compra;
     private String constructora;
     private String banco_vinculado;
@@ -39,6 +38,5 @@ public class Respuesta3 {
     public void setBanco_vinculado(String banco_vinculado) {
         this.banco_vinculado = banco_vinculado;
     }
-    
-    
+
 }

@@ -1,8 +1,7 @@
-
 package model.vo;
 
-
 public class Respuesta1 {
+
     private Integer id_lider;
     private String nombre;
     private String primer_apellido;
@@ -49,6 +48,5 @@ public class Respuesta1 {
     public void setCiudad_residencia(String ciudad_residencia) {
         this.ciudad_residencia = ciudad_residencia;
     }
-    
-    
+
 }
